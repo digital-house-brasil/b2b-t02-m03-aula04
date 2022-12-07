@@ -84,10 +84,10 @@ namespace Exercicios
             void Questao4() 
             {
                 Console.WriteLine("Digite o valor do empréstimo: ");
-                double emprestimo = double.Parse(Console.ReadLine());
+                int emprestimo = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("Digite o seu score no Serasa: ");
-                double score = double.Parse(Console.ReadLine());
+                int score = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("Digite a quantidade de meses: ");
                 int meses = int.Parse(Console.ReadLine());
