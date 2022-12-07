@@ -1,0 +1,15 @@
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\bin\Debug\net7.0\b2b-t02-m03-aula04.exe
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\bin\Debug\net7.0\b2b-t02-m03-aula04.deps.json
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\bin\Debug\net7.0\b2b-t02-m03-aula04.runtimeconfig.json
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\bin\Debug\net7.0\b2b-t02-m03-aula04.dll
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\bin\Debug\net7.0\b2b-t02-m03-aula04.pdb
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.csproj.AssemblyReference.cache
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.AssemblyInfoInputs.cache
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.AssemblyInfo.cs
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.csproj.CoreCompileInputs.cache
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.dll
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\refint\b2b-t02-m03-aula04.dll
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.pdb
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\b2b-t02-m03-aula04.genruntimeconfig.cache
+C:\Users\joanj\Documents\ibrf_tech\b2b-t02-m03-aula04\obj\Debug\net7.0\ref\b2b-t02-m03-aula04.dll

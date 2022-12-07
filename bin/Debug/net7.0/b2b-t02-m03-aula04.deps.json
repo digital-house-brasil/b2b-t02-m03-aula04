@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "b2b-t02-m03-aula04/1.0.0": {
+        "runtime": {
+          "b2b-t02-m03-aula04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "b2b-t02-m03-aula04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
