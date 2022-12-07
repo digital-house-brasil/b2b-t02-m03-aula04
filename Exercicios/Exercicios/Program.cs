@@ -71,10 +71,10 @@ namespace Exercicios
             void Questao3()
             {
                 Console.WriteLine("Digite o valor da velocidade ");
-                double velocidade = double.Parse(Console.ReadLine());
+                int velocidade = double.Parse(Console.ReadLine());
 
                 Console.WriteLine("Digite o valor da aceleração: ");
-                double aceleracao = double.Parse(Console.ReadLine());
+                int aceleracao = double.Parse(Console.ReadLine());
 
                 double distancia = ((-1 * velocidade) * (-1 * velocidade))/(aceleracao * aceleracao);
 
